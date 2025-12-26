@@ -2,7 +2,7 @@
 
 _A complete Version Control System built from scratch in Python._
 
-**DING (Ding Is Not Git)** is an version control system developed as part of **OpenCode by IIITA**.  
+**DING** is an version control system developed as part of **OpenCode by IIITA**.  
 The goal of this project is to build a VCS that implements **most of the features** git
 
 DING focuses on teaching core concepts such as content-addressable storage, snapshots, commits, branching, diffs, and logs - all through readable, well-structured Python code.
